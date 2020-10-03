@@ -1,0 +1,5 @@
+package oo.inheritance.demo09;
+
+public class Fu {
+    int num=30;
+}
