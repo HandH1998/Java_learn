@@ -1,6 +1,6 @@
 package multithread;
 
-public class Demo01Thread {
+public class Demo02Thread {
     public static void main(String[] args) {
         MyThread mt=new MyThread();
         mt.start();
