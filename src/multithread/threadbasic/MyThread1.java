@@ -1,4 +1,4 @@
-package multithread;
+package multithread.threadbasic;
 
 public class MyThread1 extends Thread{
     @Override

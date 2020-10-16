@@ -1,4 +1,4 @@
-package multithread;
+package multithread.threadbasic;
 
 public class RunnableImpl implements Runnable {
     @Override

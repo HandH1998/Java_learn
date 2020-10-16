@@ -1,4 +1,4 @@
-package multithread;
+package multithread.threadbasic;
 
 public class Demo05Sleep {
     public static void main(String[] args) {

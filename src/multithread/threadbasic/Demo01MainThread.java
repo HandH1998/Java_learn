@@ -1,4 +1,4 @@
-package multithread;
+package multithread.threadbasic;
 
 public class Demo01MainThread {
     public static void main(String[] args) {

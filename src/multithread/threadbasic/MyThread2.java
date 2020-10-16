@@ -1,4 +1,4 @@
-package multithread;
+package multithread.threadbasic;
 
 public class MyThread2 extends Thread{
     public MyThread2(){
